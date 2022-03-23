@@ -8,3 +8,11 @@ To use the list, download **COPIUM.lflist.config** and:
 Select the banlist in the deckbuilding menu. **The banlist does not work online, you have to play with Unlimited or N/A banlist in order to play online**.
 
 The Copium format discord: https://discord.gg/RwTynBbkTU
+
+# Limited List
+| Card Type      	| Card Name                   	| Status            	| Remarks       	| Card Info                                                 	|
+|----------------	|-----------------------------	|-------------------	|---------------	|-----------------------------------------------------------	|
+| Monster/Effect 	| Darkstorm Dragon            	| Forbidden/Removed 	| Was Unlimited 	| https://db.ygoprodeck.com/card/?search=Darkstorm%20Dragon 	|
+|                	|                             	|                   	|               	|                                                           	|
+|                	| Ash Blossom & Joyous Spring 	|                   	|               	|                                                           	|
+|                	| Atlantean Heavy Infantry    	|                   	|               	|                                                           	|
